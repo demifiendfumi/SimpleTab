@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Tab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="one">One</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="two">Two</string>
+</resources>
